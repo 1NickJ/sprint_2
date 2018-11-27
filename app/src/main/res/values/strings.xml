@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">sprint_2</string>
+
+    <string-array name="Shopping_items">
+        <item>Cupcake</item>
+        <item>Donut</item>
+        <item>water</item>
+        <item>ice cream</item>
+        <item>Gingerbread</item>
+        <item>cereal</item>
+        <item>broccoli</item>
+        <item>carrots</item>
+        <item>soda</item>
+        <item>Donut</item>
+        <item>Oreo</item>
+        <item>gram crackers</item>
+        <item>bananas</item>
+        <item>yogurt</item>
+        <item>beans</item>
+        <item>spaghetti</item>
+        <item>chicken</item>
+    </string-array>
+
+</resources>
